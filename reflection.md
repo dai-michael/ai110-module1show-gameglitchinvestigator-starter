@@ -59,8 +59,5 @@ Streamlit reruns occur when a user interacts with a Streamlit app, which reruns 
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
 One habit I will reuse in future labs is I will make sure to understand what the agent is doing at every step, and use that information to be specific in future prompts.
 One thing I would do differently next time I work with AI is I will be more diciplined with opening new chat sessions for different fixes and explanations.
-
-
-COME BACK TO LAST QUESTION LATER
-ai generated code not perfect, still need human intervention to check for correct functionality and ensure consistent high level decisions
+This project changed the way I think about AI generated code because I realize that AI generated code is not perfect, and that human intervention is still needed to check for correct functionality and ensure consistent decisions especially at the high level.
 
